@@ -1,0 +1,9 @@
+﻿  MyLibrary.cpp
+c:\users\user\desktop\examc++\project2\mylibrary.cpp(9): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\desktop\examc++\project2\mylibrary.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+c:\users\user\desktop\examc++\project2\main.cpp(55): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\user\desktop\examc++\project2\main.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+Main.obj : error LNK2005: "bool __cdecl operator<(struct GoodsInfo,struct GoodsInfo)" (??M@YA_NUGoodsInfo@@0@Z) уже определен в MyLibrary.obj
+C:\Users\user\Desktop\ExamC++\Project2\Debug\Project2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

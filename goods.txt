@@ -1,0 +1,10 @@
+model:Samsung price: 50000,00
+model:Apple price: 95000,00
+model:Bosh price: 21000,00
+model:Hitachi price: 5000,00
+model:Philips price: 19000,00
+model:Bork price: 8000,90
+model:Lg price: 26000,05
+model:Huaway price: 30000,00
+model:Xiaomi price: 21000,00
+model:Asus price: 32500,36
